@@ -16,17 +16,16 @@ const MESSAGE = `
 *SESSION GENERATED SUCCESSFULLY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GlobalTechInfo/MEGA-MD
 
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/Global_TechInfo
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+https://github.com/Ayanfeoluwanimi111
+*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💨
+https://chat.whatsapp.com/FEcIqQ8blnR7sr1oZ3Nqh6?mode=gi_t
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/@GlobalTechInfo
+https://youtube.com/@brokenvzn-s7s?si=bp7Pw2oOvSC808C0
 
-*MEGA-MD--WHATSAPP* 🥀
-`;
+*X5 MD--WHATSAPP* 🥀
+`https://whatsapp.com/channel/0029VbCPTCQ0bIdfkkE4cg0L;
 
 async function removeFile(FilePath) {
     try {
